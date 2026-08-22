@@ -4,8 +4,8 @@
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/primary</item>
         <item name="colorSecondary">@color/secondary</item>
-        <item name="android:windowBackground">@color/background_light</item>
-        <item name="android:statusBarColor">@color/background_light</item>
+        <item name="android:windowBackground">@color/bg_start</item>
+        <item name="android:statusBarColor">@color/bg_start</item>
         <item name="android:windowLightStatusBar">true</item>
     </style>
 

@@ -10,9 +10,9 @@ EasyDownloader is a modern, high-performance Android application built with **Ma
 
 ## 📸 Screenshots
 
-| Home Screen | Download History | Media Player |
+| Home Screen | Recent Library | File Viewer |
 | :---: | :---: | :---: |
-| _[Add Screenshot 1]_ | _[Add Screenshot 2]_ | _[Add Screenshot 3]_ |
+| ![Home](screenshots/screenshot1.png) | ![Library](screenshots/screenshot2.png) | ![Viewer](screenshots/screenshot3.png) |
 
 ---
 

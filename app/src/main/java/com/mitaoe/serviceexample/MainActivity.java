@@ -97,11 +97,11 @@ public class MainActivity extends AppCompatActivity {
         viewDownloadsBtn.setOnClickListener(v -> {
             if (historyCard.getVisibility() == View.VISIBLE) {
                 historyCard.setVisibility(View.GONE);
-                viewDownloadsBtn.setText("VIEW ALL");
+                viewDownloadsBtn.setText("EXPLORE");
             } else {
                 refreshDownloads();
                 historyCard.setVisibility(View.VISIBLE);
-                viewDownloadsBtn.setText("HIDE");
+                viewDownloadsBtn.setText("CLOSE");
             }
         });
     }
